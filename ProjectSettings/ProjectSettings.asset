@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: a1fdf3622110b334886e6a47edd07c6d
+  productGUID: 18930b17f09072340be013b2f89cf686
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: EmergencyVR_UI
+  productName: EmergencyVR_RCP
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -82,7 +82,7 @@ PlayerSettings:
   androidApplicationEntry: 2
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
-  runInBackground: 1
+  runInBackground: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: EmergencyVR_UI
+  metroPackageName: EmergencyVR_RCP
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: EmergencyVR_UI
+  metroApplicationDescription: EmergencyVR_RCP
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -923,10 +923,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: d58af405-6a1b-4a87-856b-0962bbf1320e
+  cloudProjectId: a006f729-6340-4748-8819-ca4d2d89f22d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: EmergencyVR_UI
+  projectName: EmergencyVR_RCP
   organizationId: dalarconm
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
